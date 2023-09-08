@@ -3,22 +3,27 @@
 ## Single Joint!
 
 
-https://github.com/compGeom-s23/3dof-are-our-tea/assets/42795164/41038047-d83d-4736-b2df-1073af1516c3
+
+https://github.com/DJRGVC/RRT-Multi-Joint-Path-Planning/assets/42795164/ff5bd9f3-f4b3-497e-bff6-7d92d70bfdfc
+
 
 
 ## Multi-Joint!
 
 
-https://github.com/compGeom-s23/3dof-are-our-tea/assets/42795164/0171ae3c-e5c0-4d66-b352-cab6717a1cf9
+
+https://github.com/DJRGVC/RRT-Multi-Joint-Path-Planning/assets/42795164/6f9854ed-195d-408f-91ad-850eddce76b3
+
 
 
 ## My Personal Favorite!
 
 
-https://github.com/compGeom-s23/3dof-are-our-tea/assets/42795164/422bed5c-16b3-463e-8176-560991a35cf0
+https://github.com/DJRGVC/RRT-Multi-Joint-Path-Planning/assets/42795164/923360ce-96e0-458a-a9f8-f6d50f2c009d
 
 
 # Main Flow
+
 ### Begin by drawing a polygonal obstacle, counter-clockwise
 ### Press n to save current polygon, and begin drawing next
 ### Once finished drawing obstacles, press n and then s to start drawing robot
